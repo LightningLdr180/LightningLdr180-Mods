@@ -27,7 +27,7 @@ run/*
 # Other Folders #
 .git/*
 .metadata/*
-/src/main/*
+
 
 # AlphabetBlocks #
 AlphabetBlocks/.gradle/*
@@ -39,6 +39,7 @@ AlphabetBlocks/logs/*
 AlphabetBlocks/mods/*
 AlphabetBlocks/resourcepacks/*
 AlphabetBlocks/saves/*
+AlphabetBlocks/src/main/*
 
 AlphabetBlocks/.classpath
 AlphabetBlocks/.project
