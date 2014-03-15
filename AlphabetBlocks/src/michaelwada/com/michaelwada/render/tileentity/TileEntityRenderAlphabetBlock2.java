@@ -68,7 +68,7 @@ public class TileEntityRenderAlphabetBlock2 extends TileEntitySpecialRenderer{
 			}
 			tessellator.draw(); // Ends Tessellator		
 			
-			Tessellator tessellator2 = Tessellator.instance;
+//			Tessellator tessellator2 = Tessellator.instance;
 			this.bindTexture(new ResourceLocation(AlphabetBlocks.MODID, blockTexture));
 			tessellator.startDrawingQuads(); // Starts Tessellator
 			{
