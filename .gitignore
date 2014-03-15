@@ -1,6 +1,50 @@
 *.class
+*.docx
+*.doc
+*.zip
+*.bat
+*.cmd
+*.pyc
+*.py
+*.txt
+*.txt~
+*.cfg~
+*.sh
+*.properties
+*.lzma
+*.cfg
+*.lang
+*.psd
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Base Folders #
+run/*
+
+# Other Folders #
+.git/*
+.metadata/*
+/src/main/*
+
+# AlphabetBlocks #
+AlphabetBlocks/.gradle/*
+AlphabetBlocks/.settings/*
+AlphabetBlocks/bin/*
+AlphabetBlocks/build/*
+AlphabetBlocks/gradle/*
+AlphabetBlocks/logs/*
+AlphabetBlocks/mods/*
+AlphabetBlocks/resourcepacks/*
+AlphabetBlocks/saves/*
+
+AlphabetBlocks/.classpath
+AlphabetBlocks/.project
+AlphabetBlocks/build.gradle
+AlphabetBlocks/gradlew
+
+# Mod B #
+ModB/*
+
